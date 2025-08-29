@@ -17,8 +17,6 @@ title: Sally Stumbo - Tech Writer Portfolio
 email: sallystumbo@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Sally Stumbo's Technical Writing Portfolio
-twitter_username: username
-github_username: username
 minimal_mistakes_skin: default
 search: true
 
@@ -66,9 +64,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-github"
       url: "https://www.linkedin.com/in/sally-stumbo-362aa950/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
