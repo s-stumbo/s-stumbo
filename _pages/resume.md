@@ -8,11 +8,17 @@ Knowledge-Centered Service (KCS) v6 Certified, docs-as-code, Markdown, HTML, con
 
 ### Tools and Software
 **Customer Management and Support**: Salesforce, Intercom, Zendesk, Nutshell CRM, Slack, Pylon, Cisco WebEx, Slack, Pylon  
+
 **Documentation**: GitHub, Docusaurus, VSCode, GitBook, NICE CXOne Expert (formerly MindTouch), WordPress, Guru, Notion 
+
 **Image and video**: Camtasia, SnagIt, Adobe Photoshop, Canva, Figma
+
 **Learning Management System (LMS)**: MindTickle, Skilljar, Thought Industries 
+
 **AI**: Kapa, ChatGPT, Claude
+
 **Project Management**: Asana, Trello, Monday  
+
 **Other**: Atlassian Jira, Aha! Product Management, CommandBar
 
 ---
