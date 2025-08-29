@@ -7,6 +7,7 @@ While working at Panther Labs, I rewrote and reorganized every page of the docs 
 
  - Explanation docs: See the [Panther Developer Workflows](https://docs.panther.com/panther-developer-workflows/overview) section of the docs.
  - How-to docs: See the [Panther S3 Source](https://docs.panther.com/data-onboarding/data-transports/aws/s3) docs.
+ - Use case docs: See the [Solutions section](https://docs.cortex.io/get-started/solutions) in the Cortex docs. 
  - Reference docs: See the [Panther Data Lakes](https://docs.panther.com/search/backend) docs.
  - KB articles:
     - [What do I do if I’m locked out of Instagram, Facebook, or another third-party Duo Mobile account?](https://help.duo.com/s/article/5640)
