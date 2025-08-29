@@ -12,7 +12,7 @@ I believe that a technical writing role is not just about the content itself, bu
 
 My experience includes technical product documentation, implementing a knowledge base from the ground up, running a Knowledge-Centered Service (KCS) program within global support teams, developing tech writing talent in junior technical writers and support team members, advocating for customer needs, acting quickly on customer feedback, upselling product features to support a customer's deployment, troubleshooting technical issues directly with customers, developing and conducting live training to groups ranging in size from 10 to 100, and walking customers through integrations and product implementations. 
 
-For more specifics on my skillset and experience, see my [Resume](/resume) page.
+For more specifics on my skillset and experience, see the [Resume](https://s-stumbo.github.io/s-stumbo/resume) page.
 
 ### Personal
 I love to learn! I'm currently taking a course about understanding and treating childhood obsessive-compulsive disorder (OCD). Next on my list of things I plan to learn (yes I have a list) is how I can become a public school special education advocate in my spare time. 
