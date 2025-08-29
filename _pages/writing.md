@@ -13,4 +13,4 @@ While working at Panther Labs, I rewrote and reorganized every page of the docs 
     - [What do I do if I’m locked out of Instagram, Facebook, or another third-party Duo Mobile account?](https://help.duo.com/s/article/5640)
     - [Are Duo Push notifications and passcodes generated in Duo Mobile FIPS 140-2 compliant?](https://help.duo.com/s/article/3128)
  - Long-form guide: [Guide to Duo Restore for Duo Mobile account recovery](https://help.duo.com/s/article/duo-restore)
- - Blogs: Click the [Blogs](/posts) link at the top of this site! 
+ - Blogs: Click the [Posts](https://s-stumbo.github.io/s-stumbo/posts/) link at the top of this site! 
