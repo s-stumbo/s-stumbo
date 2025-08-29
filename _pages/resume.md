@@ -4,12 +4,14 @@ title: "Resume"
 ---
 Sally Stumbo is a talented technical writer who has worked in a variety of roles focused on customer enablement.
 ### Skills
-Knowledge-Centered Service (KCS) v6 Certified, docs-as-code, Markdown, HTML, content strategy and taxonomy, Agile methodology, Cisco Design Thinking Practitioner certification, people management, project management
+Knowledge-Centered Service (KCS) v6 Certified, docs-as-code, Markdown, HTML, content strategy and taxonomy, use case and solution-oriented writing, Agile methodology, Cisco Design Thinking Practitioner certification, people management, project management
 
 ### Tools and Software
 **Customer Management and Support**: Salesforce, Intercom, Zendesk, Nutshell CRM, Slack, Pylon, Cisco WebEx, Slack, Pylon  
-**Documentation**: GitHub, Docusaurus, VSCode, GitBook, NICE CXOne Expert (formerly MindTouch), WordPress, Guru, Notion, Camtasia, SnagIt, Adobe Photoshop, Figma  
-**Learning Management System (LMS)**: MindTickle, Skilljar, Thought Industries  
+**Documentation**: GitHub, Docusaurus, VSCode, GitBook, NICE CXOne Expert (formerly MindTouch), WordPress, Guru, Notion 
+**Image and video**: Camtasia, SnagIt, Adobe Photoshop, Canva, Figma
+**Learning Management System (LMS)**: MindTickle, Skilljar, Thought Industries 
+**AI**: Kapa, ChatGPT, Claude
 **Project Management**: Asana, Trello, Monday  
 **Other**: Atlassian Jira, Aha! Product Management, CommandBar
 
@@ -19,10 +21,11 @@ Knowledge-Centered Service (KCS) v6 Certified, docs-as-code, Markdown, HTML, con
 ## Senior Technical Writer - Cortex
 ### August 2024 - Present
 Cortex is an internal developer portal that helps development teams achieve engineering excellence.
-- Own the process creation for technical product documentation, including style guides, publication guides, and contribution guides.
-- Manage the documentation release process, aligning with the product and engineering teams to produce documentation when features and updates are released.
-- Overhauled existing documentation; improved and clarified content, applied templates for consistency, and reorganized the docs site taxonomy to make content more findable for customers.
-- Led the company through a docs platform transition, aiming to increase collaboration across the organization.
+- Own the process creation for technical product documentation, including style guides, publication guides, and contribution guides. Create how-to content and solution-oriented content that explains how customers can use Cortex to solve for common industry use cases.
+- Manage the documentation release process, aligning with the product and engineering teams to produce documentation when features and updates are released. Run weekly meetings with product and engineering leads to ensure our content is fully updated alongside releases.
+- Overhauled existing documentation; improved and clarified content, applied templates for consistency, reorganized the docs site taxonomy to make content more findable for customers, integrated with AI search tool Kapa to ensure customers can answer questions in natural language and get a helpful answer.
+- Initiated metric tracking for documentation, providing leadership with insight into support hours saved, customer frustration avoided, and an analysis of how docs updates impact page views for specific product areas.
+- Led the company through a docs platform transition, sucessfully increasing collaboration across the organization: We went from 3 contributors to 20 contributors after the switch.
 - Contribute UX writing for the app, creating Pull Requests directly against the front-end code repository via GitOps.
 - Started a CX department internal blog, promoting knowledge-sharing across the CX department.
 
