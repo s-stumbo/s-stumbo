@@ -4,10 +4,10 @@ title: "Resume"
 ---
 Sally Stumbo is a talented technical writer who has worked in a variety of roles focused on customer enablement.
 ### Skills
-Knowledge-Centered Service (KCS) v6 Certified, docs-as-code, Markdown, HTML, content strategy and taxonomy, use case and solution-oriented writing, Agile methodology, Cisco Design Thinking Practitioner certification, people management, project management
+Knowledge-Centered Service (KCS) v6 Certified, docs-as-code, Markdown, HTML, content strategy and taxonomy, use case and solution-oriented writing, instructional design (SAM), Agile methodology, Cisco Design Thinking Practitioner certification, people management, project management
 
 ### Tools and Software
-**Customer Management and Support**: Salesforce, Intercom, Zendesk, Nutshell CRM, Slack, Pylon, Cisco WebEx, Slack, Pylon  
+**Customer Management and Support**: Salesforce, Intercom, Zendesk, Nutshell CRM, Slack, Pylon, Cisco WebEx
 
 **Documentation**: GitHub, Docusaurus, VSCode, GitBook, NICE CXOne Expert (formerly MindTouch), WordPress, Guru, Notion 
 
